@@ -12,7 +12,7 @@ public class JDBCDemo {
 		String url, uname, pass;
 		url = "jdbc:mysql://localhost:3306/";
 		uname = "root";
-		pass = "Nandu@2004";
+		pass = "Your_Password";
 		Database db = null;
 		
 		Scanner sc = new Scanner(System.in);
